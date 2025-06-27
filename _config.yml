@@ -7,3 +7,5 @@ baseurl:
 url: "https://www.allawihussain.com"
 github_username: alihussain5
 remote_theme: pages-themes/minimal
+plugins:
+- jekyll-remote-theme
