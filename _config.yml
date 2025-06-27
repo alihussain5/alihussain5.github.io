@@ -1,9 +1,10 @@
 title: Ali Hussain
 email: allawi.hussain@gmail.com
 markdown: kramdown
-theme: minima
 description: >-
   Hello, I'm Ali! I'm a software engineer based out of San Francisco.
 url: "https://www.allawihussain.com"
 github_username: alihussain5
-
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
