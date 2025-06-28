@@ -1,7 +1,3 @@
 ---
-layout: default
+layout: home
 ---
-
-# Ali Hussain
-
- Hello!
