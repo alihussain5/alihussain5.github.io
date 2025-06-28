@@ -6,3 +6,8 @@ description: >-
 baseurl:
 url: "https://www.allawihussain.com"
 github_username: alihussain5
+navigation:
+  - url: '/home'
+    title: 'Home'
+  - url: '/about'
+    title: 'About'

@@ -1,12 +1,12 @@
 <header>
-  <div>
-    <a href="{{ '/' | relative_url }}" title="Home">{{ site.title }}</a>
-  </div>
+  <h1>
+    {{ site.title }}
+  </h1>
 
-  {% if site.data.navigation %}
+  {% if site.navigation %}
     <nav>
-      {% for item in site.data.navigation %}
-          <a href="{{ item.url | relative_url }}" class="{% if page.url == item.url %}current{% endif %}">
+      {% for item in site.navigation %}
+          <a href="{{ item.url | relative_url }}">
             {{ item.title }}
           </a>
       {% endfor %}
