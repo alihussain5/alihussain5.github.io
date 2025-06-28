@@ -1,0 +1,15 @@
+<header>
+  <div>
+    <a href="{{ '/' | relative_url }}" title="Home">{{ site.title }}</a>
+  </div>
+
+  {% if site.data.navigation %}
+    <nav>
+      {% for item in site.data.navigation %}
+          <a href="{{ item.url | relative_url }}" class="{% if page.url == item.url %}current{% endif %}">
+            {{ item.title }}
+          </a>
+      {% endfor %}
+    </nav>
+  {% endif %}
+</header>
