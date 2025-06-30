@@ -7,7 +7,9 @@ html, body {
 
 body {
   margin: auto;
-  width: 75ch;
+  max-width: 75ch;
+  padding-left: 12px;
+  padding-right: 12px;
 }
 
 header > h1 {
