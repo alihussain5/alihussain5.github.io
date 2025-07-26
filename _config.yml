@@ -9,3 +9,5 @@ github_username: alihussain5
 navigation:
   - url: '/'
     title: 'About'
+  - url: '/readings'
+    title: 'Readings'
