@@ -11,3 +11,5 @@ navigation:
     title: 'About'
   - url: '/readings'
     title: 'Readings'
+  - url: '/writings'
+    title: 'Writings'
