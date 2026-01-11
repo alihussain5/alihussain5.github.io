@@ -1,4 +1,5 @@
 ---
+title: My Initial Impression of AI Coding Tools
 layout: post
 ---
 
