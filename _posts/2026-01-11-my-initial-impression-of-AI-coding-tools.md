@@ -10,7 +10,7 @@ It's been decent. I'm quite happy that I no longer have to type out entire objec
 
 It's also led to a lot of frustration - almost any time I'm facing a problem that can't be solved with the equivalent of a Stack Overflow solution or by reading documentation. Unfortunately, it's difficult to know whether what's in front of you has a simple solution or not, and it's easy to get stuck in a cycle of thinking you're one prompt away from Claude solving it. I find myself constantly debating whether to acknowledge the sunken cost and get ready to solve it the old fashioned way.
 
-I came across [https://news.ycombinator.com/item?id=46417518](this comment on Hacker News) that helped orient my thinking around these tools:
+I came across [this comment on Hacker News](https://news.ycombinator.com/item?id=46417518) that helped orient my thinking around these tools:
 
 > AI coding tools are effective for many because, unfortunately, our work has become increasingly repetitive. When someone marvels at how a brief prompt can produce functioning code, it simply means the AI has delivered a more imaginative or elaborate specification than that person could envision, even if the resulting code is merely a variation of what has already been written countless times before. Maybe there's nothing wrong with that, as not everyone is fortunate enough to work on new problems and get to implement new ideas. It's just that repetitive work is bound to be automated away...
 
