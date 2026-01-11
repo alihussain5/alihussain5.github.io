@@ -25,3 +25,18 @@ header {
 a {
   text-decoration: none;
 }
+
+nav {
+  display: flex;
+  gap: 16px;
+}
+
+.nav-item.active {
+  font-weight: bold;
+}
+
+.footnotes {
+  padding-top: 24px;
+  font-size: 0.85em;
+  color: #666;
+}
