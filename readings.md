@@ -6,7 +6,7 @@ list:
     author: 'Brendan Leanord'
     description: ''
     date: '19-06-2025'
-  - url: 'https://m.youtube.com/watch?v=LKtk3HCgTa8'
+  - url: 'https://youtube.com/watch?v=LKtk3HCgTa8'
     title: 'Simple made Easy'
     author: 'Rich Hickey'
     description: ''
