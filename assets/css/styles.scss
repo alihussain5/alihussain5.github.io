@@ -28,11 +28,15 @@ a {
 
 nav {
   display: flex;
-  gap: 16px;
+  gap: 8px;
+}
+
+.nav-item-container {
+  width: 40px;
 }
 
 .nav-item {
-  colour: inherit;
+  color: inherit !important;
 }
 
 .nav-item.active {
@@ -40,6 +44,6 @@ nav {
 }
 
 .footnotes {
-  font-size: 0.7em;
+  font-size: 0.85em;
   color: #666;
 }
