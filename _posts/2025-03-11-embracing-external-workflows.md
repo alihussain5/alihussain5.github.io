@@ -2,7 +2,7 @@
 layout: post
 ---
 
-This is a personal reflection over my career as I've gained understanding of what it takes to build useful product. I've worked on a number of software products and an underlying theme is _how do we get people's fragmented workflows into a tidy product where they can achieve their goals faster_. Almost always, that fragmented workflow is heavily reliant on Excel. This leads to a neverending battle with Excel and replicating the unmaintainable and confusing systems it can enable.
+This is a personal reflection over my career as I've gained understanding of what it takes to build useful product. I've worked on a number of software products and an underlying theme is _how do we get people's fragmented workflows into a tidy product_. Almost always, that fragmented workflow is heavily reliant on Excel. This leads to a neverending battle with Excel and replicating the unmaintainable and confusing systems it can enable.
 
 Looking back, a big learning wasn't at all how to get people out of Excel - we definitely tried that - but it was the refusal to acknowledge that Excel and other workflows outside of whatever product we were building were valid. Personally, I was arrogant and took the stance that everything done outside of our app was easily[^1] reproducible with modern tech and would always be superior. This led to a place where the boundaries of our product were strictly defined and flexibility wasn't a consideration.
 
