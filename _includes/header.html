@@ -6,9 +6,7 @@
   {% if site.navigation %}
     <nav>
       {% for item in site.navigation %}
-        {% assign current = page.url | append: '/' | replace: '//', '/' %}
-        {% assign nav_item = item.url | append: '/' | replace: '//', '/' %}
-        <a href="{{ item.url | relative_url }}" class="nav-item {% if current == nav_item %}active{% endif %}">
+        <a href="{{ item.url | relative_url }}" class="nav-item {% if page.active_nav == item.id %}active{% endif %}">
           {{ item.title }}
         </a>
       {% endfor %}

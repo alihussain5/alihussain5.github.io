@@ -1,5 +1,6 @@
 ---
 layout: default
+active_nav: about
 ---
 
 Hello! I'm Ali, a software engineer based out of San Francisco. Currently, I am the founding engineer at [Caspian](https://www.meetcaspian.com). I like functional programming, immutable architecture design, data analysis, and UI/UX. Outside of tech, my interests include urban planning, public transportation, skiing, cycling, and all things outdoors.

@@ -1,5 +1,6 @@
 ---
 layout: webpage-list
+active_nav: readings
 list:
   - url: 'https://semirad.substack.com/p/two-different-mountains'
     title: 'Two Different Mountains'
