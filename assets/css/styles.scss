@@ -43,4 +43,9 @@ nav {
 .footnotes {
   font-size: 0.85em;
   color: #666;
+  padding-top: 1px;
+}
+
+.footnotes > ol {
+  padding-left: 12px;
 }
