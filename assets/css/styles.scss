@@ -31,16 +31,13 @@ nav {
   gap: 8px;
 }
 
-.nav-item-container {
-  width: 40px;
-}
-
 .nav-item {
   color: inherit !important;
+  font-weight: bold;
 }
 
 .nav-item.active {
-  font-weight: bold;
+  text-decoration: underline;
 }
 
 .footnotes {
