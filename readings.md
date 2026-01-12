@@ -14,4 +14,4 @@ list:
     date: '19-09-2011'
 ---
 
-Things from the internet that have had an impact on me and/or my career.
+Content from the internet that have had an impact on me and/or my career.
