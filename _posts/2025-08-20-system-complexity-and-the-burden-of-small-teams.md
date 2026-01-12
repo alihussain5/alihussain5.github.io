@@ -1,4 +1,5 @@
 ---
+title: System Complexity and the Burden of Small Teams
 layout: post
 ---
 
