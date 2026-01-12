@@ -6,7 +6,13 @@
   {% if site.navigation %}
     <nav>
       {% for item in site.navigation %}
-        <a href="{{ item.url | relative_url }}" class="nav-item {% if page.active_nav == item.id %}active{% endif %}">
+        {% assign is_active = false %}
+        {% if page.active_nav == item.id %}
+          {% assign is_active = true %}
+        {% elsif page.layout == 'post' and item.id == 'writings' %}
+          {% assign is_active = true %}
+        {% endif %}
+        <a href="{{ item.url | relative_url }}" class="nav-item {% if is_active %}active{% endif %}">
           {{ item.title }}
         </a>
       {% endfor %}
